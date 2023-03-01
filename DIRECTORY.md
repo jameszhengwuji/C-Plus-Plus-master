@@ -340,6 +340,7 @@
 ## Sorting
   * [Bead Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/bead_sort.cpp)
   * [Binary Insertion Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/binary_insertion_sort.cpp)
+  * [Binary Insertion Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/binary_insertion_sort.h)
   * [Bitonic Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/bitonic_sort.cpp)
   * [Bogo Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/bogo_sort.cpp)
   * [Bubble Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/bubble_sort.cpp)
