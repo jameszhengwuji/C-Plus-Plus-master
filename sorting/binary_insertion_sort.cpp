@@ -39,10 +39,7 @@
  * \f{bmatrix}{10 &20 &30 &40 &50\f}
  */
 
-#include <algorithm>  /// for algorithm functions
-#include <cassert>    /// for assert
-#include <iostream>   /// for IO operations
-#include <vector>     /// for working with vectors
+#include "binary_insertion_sort.h"
 
 /**
  * \namespace sorting
